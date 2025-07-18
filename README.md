@@ -1,70 +1,79 @@
-<h1 align="center">Hi, I'm Venu Pagadhara 👋</h1>
-<h3 align="center">Frontend Developer | UI Engineer | JavaScript Enthusiast</h3>
+# 💫 About Me:
+I'm a results-driven Frontend Developer with 4 years of experience building rich, user-focused applications using modern JavaScript frameworks. I specialize in React.js, Next.js, TypeScript, and component-driven architecture, and I have a passion for writing clean, maintainable code that scales with teams and products.<br><br>I thrive in fast-paced, Agile environments, and enjoy solving complex UI challenges by combining user-centric thinking with technical best practices.
 
-<p align="center">
-  🚀 Turning designs into scalable, performant, accessible web experiences.
-</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venu-pagadala-77ab3a251/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://venupagadala.github.io/Portfolio/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venupagadala13@gmail.com)
+
+
+# 💻 Tech Stack:
+
+<!-- Core Web Languages -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+<!-- Frontend Frameworks & Libraries -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
+
+<!-- State Management & Forms -->
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+
+<!-- Styling & UI Frameworks -->
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) 
+
+<!-- Build Tools & Package Managers -->
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
+
+<!-- Version Control & CI/CD -->
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+
+<!-- Cloud & Hosting -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+
+<!-- Backend & Database -->
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+<!-- Design & Prototyping -->
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+
+<!-- Testing & Documentation -->
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=venupagadala&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=venupagadala&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=venupagadala&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=venupagadala&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=venupagadala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=venupagadala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 About Me
-
-I'm a results-driven **Frontend Developer** with **4+ years of experience** building rich, user-focused applications using modern JavaScript frameworks. I specialize in **React.js**, **TypeScript**, and **component-driven architecture**, and I have a passion for writing clean, maintainable code that scales with teams and products.
-
-I thrive in fast-paced, Agile environments, and enjoy solving complex UI challenges by combining user-centric thinking with technical best practices.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-**Tooling & Practices:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=flat-square&logo=github-actions)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🎧 Spotify UI Clone](https://github.com/venupagadala/Spotify) | A pixel-perfect frontend replica of Spotify built with React | React, Styled Components, React Router |
-| [📂 Portfolio Website](#) | My personal portfolio showcasing experience, projects, and resume | React, Tailwind CSS, Netlify |
-| [📚 UI Component Library](#) | A set of reusable, accessible UI components built in React | React, Tailwind CSS, Storybook |
-
----
-
-## 💼 Experience Highlights
-
-- ✅ Developed and maintained responsive UI components for enterprise web apps used by thousands of users
-- ⚡ Optimized React apps for performance, reducing initial load time by 30%+
-- 🔄 Integrated RESTful APIs and managed complex state using Redux Toolkit
-- 🎨 Collaborated closely with designers to translate Figma prototypes into pixel-perfect, accessible code
-- 🚀 Delivered production-ready features in Agile teams with CI/CD pipelines
-
----
-
-## 📫 Let’s Connect
-
-I’m always open to exciting opportunities and collaborations. Reach out if you're hiring, have a project in mind, or just want to chat tech!
-
-- 💼 [LinkedIn](https://linkedin.com/in/venupagadala)
-- ✉️ venupagadala13@gmail.com
-- 🌍 [Portfolio](https://venupagadala.github.io/Portfolio/)
-
----
-
-<p align="center">⭐️ Thank you for visiting my GitHub profile! ⭐️</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
