@@ -61,10 +61,14 @@ I'm a results-driven Frontend Developer with 4 years of experience building rich
 <!-- Testing & Documentation -->
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venupagadala&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=venupagadala&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venupagadala&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=venupagadala&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&hide=issues&cache_seconds=1800)
+
+![](https://nirzak-streak-stats.vercel.app/?user=venupagadala&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=venupagadala&theme=transparent&hide_border=false&layout=compact&langs_count=8&exclude_repo=repo1,repo2)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venupagadala&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
