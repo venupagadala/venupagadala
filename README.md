@@ -1,5 +1,5 @@
 # About Me:
-I'm a results-driven Frontend Developer with 4 years of experience building rich, user-focused applications using modern JavaScript frameworks. I specialize in React.js, Next.js, TypeScript, and component-driven architecture, and I have a passion for writing clean, maintainable code that scales with teams and products.<br><br>I thrive in fast-paced, Agile environments, and enjoy solving complex UI challenges by combining user-centric thinking with technical best practices.
+I'm a results-driven Software Developer with 4 years of experience building rich, user-focused applications using modern JavaScript frameworks. I specialize in React.js, Next.js, TypeScript, and component-driven architecture, and I have a passion for writing clean, maintainable code that scales with teams and products.<br><br>I thrive in fast-paced, Agile environments, and enjoy solving complex UI challenges by combining user-centric thinking with technical best practices.
 
 
 ## 🌐 Socials:
