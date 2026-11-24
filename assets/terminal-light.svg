@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Terminal: whoami prints Venu Pagadala, senior full stack engineer. now.txt lists building the HD Supply storefront, shipping with Claude agents, and open to a senior full stack or frontend role.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; white-space: pre; }
+    /* Visible by default; the animation only hides each line until its turn,
+       so renderers without animation still show the full terminal. */
+    .line { animation: reveal 0.01s steps(1) backwards; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes reveal { from { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; } .cursor { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="898" height="298" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v27H1Z" fill="#f6f8fa"/>
+  <path d="M1 40H899" stroke="#d0d7de"/>
+  <circle cx="24" cy="21" r="6.5" fill="#ff5f57"/><circle cx="46" cy="21" r="6.5" fill="#febc2e"/><circle cx="68" cy="21" r="6.5" fill="#28c840"/>
+  <text x="450" y="26" text-anchor="middle" fill="#57606a" style="font-size:13px">venu@github: ~ — zsh</text>
+  <text class="line" style="animation-delay:0.40s" x="28" y="86"><tspan fill="#1a7f37" font-weight="700">venu@github</tspan><tspan fill="#57606a">:</tspan><tspan fill="#0550ae">~</tspan><tspan fill="#1f2328">$ </tspan><tspan fill="#1f2328">whoami</tspan></text><text class="line" style="animation-delay:0.95s" x="28" y="120"><tspan>  </tspan><tspan fill="#1f2328" font-weight="700">Venu Pagadala</tspan><tspan fill="#57606a">  ·  senior full stack engineer</tspan></text><text class="line" style="animation-delay:1.50s" x="28" y="150"><tspan fill="#1a7f37" font-weight="700">venu@github</tspan><tspan fill="#57606a">:</tspan><tspan fill="#0550ae">~</tspan><tspan fill="#1f2328">$ </tspan><tspan fill="#1f2328">cat </tspan><tspan fill="#0550ae">now.txt</tspan></text><text class="line" style="animation-delay:2.05s" x="28" y="184"><tspan>  </tspan><tspan fill="#953800">→ </tspan><tspan fill="#1f2328">building the HD Supply storefront</tspan><tspan fill="#57606a">  next.js · spring boot · redis</tspan></text><text class="line" style="animation-delay:2.60s" x="28" y="214"><tspan>  </tspan><tspan fill="#953800">→ </tspan><tspan fill="#1f2328">shipping with Claude agents</tspan><tspan fill="#57606a">  reviews + PRs from a dev&#39;s own machine</tspan></text><text class="line" style="animation-delay:3.15s" x="28" y="244"><tspan>  </tspan><tspan fill="#953800">→ </tspan><tspan fill="#1f2328">open to a senior full stack / frontend role</tspan></text><text class="line" style="animation-delay:3.70s" x="28" y="274"><tspan fill="#1a7f37" font-weight="700">venu@github</tspan><tspan fill="#57606a">:</tspan><tspan fill="#0550ae">~</tspan><tspan fill="#1f2328">$ </tspan><tspan class="cursor" fill="#1f2328">▋</tspan></text>
+</svg>
